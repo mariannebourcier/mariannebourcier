@@ -4,7 +4,7 @@ A recent coding bootcamp graduate and lover of anything fitness related. 🏋�
 My first language is French Canadian and I learned English the hard way by moving from Québec to Alberta by myself.
 I am planning on learning many more languages... CODING languages that is!
 
-#### ✨What I already learned...✨
+#### ✨I already learned...✨
 - HTML/CSS/JS/REACTJS/RUBY
 - SQL
 - NodeJS/Express/JQuery/AJAX
@@ -15,7 +15,7 @@ I am planning on learning many more languages... CODING languages that is!
 A single page app for runners to join and create running events near them ➡️ 
 https://github.com/mariannebourcier/werun
 
-#### 🦋What I am currently working on...🦋
+#### 🦋I am currently working on...🦋
 
 A myFitnessPal clone!
 
