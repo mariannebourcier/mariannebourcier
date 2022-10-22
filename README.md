@@ -1,6 +1,6 @@
 ### Hi there 👋 
 #### I am Marianne! 💁🏻‍♀️
-A recent coding bootcamp graduate and lover of anything fitness related. 🏋🏻‍♂️🚴🏻‍♀️🏃🏻‍♀️🏔
+A recent Lighthouse Labs graduate and lover of anything fitness related. 🏋🏻‍♂️🚴🏻‍♀️🏃🏻‍♀️🏔
 My first language is French and I learned English the hard way by moving from Québec to Alberta by myself.
 I am planning on learning many more languages... PROGRAMMING languages that is!
 
