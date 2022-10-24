@@ -7,11 +7,11 @@ I am planning on learning many more languages... PROGRAMMING languages that is!
 #### ✨Current skills...✨
 - Javascript
 - React
-- HTML/CSS
+- HTML | CSS
 - Ruby
 - PostgreSQL
-- NodeJS/Express/JQuery/AJAX
-- Storybook/Jest/Chai/Mocha/Cypress/Rails
+- Node | Express | JQuery | AJAX | EJS
+- Storybook | Jest | Chai | Mocha | Cypress | Rails
 - Git
 
 #### 💃🏻My most recent project...💃🏻
