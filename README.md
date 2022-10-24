@@ -5,6 +5,7 @@ My first language is French and I learned English the hard way by moving from Qu
 I am planning on learning many more languages... PROGRAMMING languages that is!
 
 #### ✨Current skills...✨
+- Javascript
 - React
 - HTML/CSS
 - Ruby
