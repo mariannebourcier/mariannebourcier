@@ -20,7 +20,7 @@ https://github.com/mariannebourcier/werun
 
 #### 🦋I am currently working on...🦋
 
-A myFitnessPal clone!
+An app that calculates and tracks calories ➡️ https://github.com/mariannebourcier/coachable
 
 #### ⚡️ Reach me on LinkedIn! https://www.linkedin.com/in/mariannebourcier/
 
