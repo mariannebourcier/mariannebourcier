@@ -1,8 +1,8 @@
 ### Hi there 👋 
 #### I am Marianne! 💁🏻‍♀️
-A recent Lighthouse Labs graduate and lover of anything fitness related. 🏋🏻‍♂️🚴🏻‍♀️🏃🏻‍♀️🏔
-My first language is French and I learned English the hard way by moving from Québec to Alberta by myself.
-I am planning on learning many more languages... PROGRAMMING languages that is!
+A recent Lighthouse Labs graduate and lover of anything fitness related. 🏋🏻‍♂️🚴🏻‍♀️🏃🏻‍♀️🏔 <br>
+I'm a bilingual (FR) web developer who loves snappy and clean front ends. 🧼
+I update my current project's README daily to keep up with current progress, link below in the Currently Working On section!
 
 #### ✨Current skills...✨
 - Javascript
