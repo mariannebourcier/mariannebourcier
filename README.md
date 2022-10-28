@@ -1,7 +1,7 @@
 ### Hi there 👋 
 #### I am Marianne! 💁🏻‍♀️
 A recent Lighthouse Labs graduate and lover of anything fitness related. 🏋🏻‍♂️🚴🏻‍♀️🏃🏻‍♀️🏔 <br>
-I'm a bilingual (FR) web developer who loves snappy and clean front ends. 🧼 <br>
+I'm a bilingual (FR) web developer who loves snappy, clean and functional applications. 🧼 <br>
 I update my current project's README daily to keep up with current progress, link below in the Currently Working On section!
 
 #### ✨Current skills...✨
