@@ -20,7 +20,7 @@ https://github.com/mariannebourcier/werun
 
 #### 🦋I am currently working on...🦋
 
-An app that calculates and tracks calories ➡️ https://github.com/mariannebourcier/coachable
+Creating the backend and database for an app that calculates and tracks calories ➡️ https://github.com/mariannebourcier/fitly
 
 #### ⚡️ Reach me on LinkedIn! https://www.linkedin.com/in/mariannebourcier/
 
