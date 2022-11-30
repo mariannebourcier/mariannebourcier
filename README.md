@@ -1,18 +1,9 @@
 ### Hi there 👋 
 #### I am Marianne! 💁🏻‍♀️
-A recent Lighthouse Labs graduate and lover of anything fitness related. 🏋🏻‍♂️🚴🏻‍♀️🏃🏻‍♀️🏔 <br>
-I'm a bilingual (FR) web developer who loves snappy, clean and functional applications. 🧼 <br>
-I update my current project's README daily to keep up with current progress, link below in the Currently Working On section!
+A Junior Full Stack Developer and lover of anything fitness related. 🏋🏻‍♂️🚴🏻‍♀️🏃🏻‍♀️🏔 <br>
+I love snappy, clean and functional applications. 🧼 <br>
+I update my current project's README to keep up with current progress, link below in the Currently Working On section!
 
-#### ✨Current skills...✨
-- Javascript
-- React
-- HTML | CSS
-- Ruby
-- PostgreSQL
-- Node | Express | JQuery | AJAX | EJS
-- Storybook | Jest | Chai | Mocha | Cypress | Rails
-- Git
 
 #### 💃🏻My most recent project...💃🏻
 A single page app for runners to join and create running events near them ➡️ 
