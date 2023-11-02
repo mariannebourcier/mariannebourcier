@@ -1,17 +1,19 @@
 ### Hi there 👋 
 #### I am Marianne! 💁🏻‍♀️
-A Junior Full Stack Developer and lover of anything fitness related. 🏋🏻‍♂️🚴🏻‍♀️🏃🏻‍♀️🏔 <br>
-I love snappy, clean and functional applications. 🧼 <br>
+A Full Stack Developer and lover of anything fitness related. 🏋🏻‍♂️🚴🏻‍♀️🏃🏻‍♀️🏔 <br>
+I love snappy, clean and functional applications that are useful and easy to navigate. 🧼 <br>
 I update my current project's README to keep up with current progress, link below in the Currently Working On section!
 
+#### 🦋 I am currently working on... 🦋
 
-#### 💃🏻My most recent project...💃🏻
-A single page app for runners to join and create running events near them ➡️ 
-https://github.com/mariannebourcier/werun
+Creating a full stack app in the legal tech ecosystem. Check out the lt-project repo for the latest update!
 
-#### 🦋I am currently working on...🦋
+#### ✨ My Current Stack ✨
 
-Creating the backend and database for an app that calculates and tracks calories ➡️ https://github.com/mariannebourcier/fitly
+- NextJS
+- React
+- Typescript
+- SCSS
 
 #### ⚡️ Reach me on LinkedIn! https://www.linkedin.com/in/mariannebourcier/
 
